@@ -1,0 +1,5 @@
+Captured Logins:
+
+username = Archxsh
+password = admin
+
